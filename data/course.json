@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fb803609-b896-c081-b3cb-f27d9ef3ed9d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Age of Reason: Europe from the 17th to the Early 19th Centuries",
+  "course_description": "This course asks students to consider the ways in which social theorists, institutional reformers, and political revolutionaries in the 17th through 19th centuries seized upon insights developed in the natural sciences and mathematics to change themselves and the society in which they lived. Students study trials, art, literature and music to understand developments in Europe and its colonies in these two centuries. Covers works by Newton, Locke, Voltaire, Rousseau, Marx, and Darwin.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.433",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
